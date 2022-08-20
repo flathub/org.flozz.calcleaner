@@ -21,8 +21,8 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/60/2e/dec1cc18c51b8df33c7c4d0a321b084cf38e1733b98f9d15018880fb4970/pytz-2022.1-py2.py3-none-any.whl",
-    "sha256": "e68985985296d9a66a881eb3193b0906246245294a881e7c8afe623866ac6a5c"
+    "url": "https://files.pythonhosted.org/packages/d5/50/54451e88e3da4616286029a3a17fc377de817f66a0f50e1faaee90161724/pytz-2022.2.1-py2.py3-none-any.whl",
+    "sha256": "220f481bdafa09c3955dfbdddb7b57780e9a94f5127e35456a48589b9e0c0197"
   },
   {
     "type": "file",
@@ -46,8 +46,8 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/94/69/64b11e8c2fb21f08634468caef885112e682b0ebe2908e74d3616eb1c113/charset_normalizer-2.1.0-py3-none-any.whl",
-    "sha256": "5189b6f22b01957427f35b6a08d9a0bc45b46d3788ef5a92e978433c7a35f8a5"
+    "url": "https://files.pythonhosted.org/packages/db/51/a507c856293ab05cdc1db77ff4bc1268ddd39f29e7dc4919aa497f0adbec/charset_normalizer-2.1.1-py3-none-any.whl",
+    "sha256": "83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f"
   },
   {
     "type": "file",
@@ -71,7 +71,7 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/89/2d/49329ebec33b14dae61ecc8c85abe596341832fa36c4bcd3d99fddda018b/tzdata-2022.1-py2.py3-none-any.whl",
-    "sha256": "238e70234214138ed7b4e8a0fab0e5e13872edab3be586ab8198c407620e2ab9"
+    "url": "https://files.pythonhosted.org/packages/71/9b/8b9fea4f4dc956de76baa291cec1c864a8edadf2950d1740bc386d7fe55a/tzdata-2022.2-py2.py3-none-any.whl",
+    "sha256": "c3119520447d68ef3eb8187a55a4f44fa455f30eb1b4238fa5691ba094f2b05b"
   }
 ]
