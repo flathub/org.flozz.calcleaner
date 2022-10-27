@@ -27,5 +27,5 @@ modules:
         path: ./build-locales.py
       - type: git
         url: "https://github.com/flozz/calcleaner.git"
-        tag: v1.1.0
-        commit: 19e47222095af3cb462e403300d05848206a3ae9
+        tag: v1.1.1
+        commit: 4cc8cc00f3ef9a9938d77eae2b06292fb9feb28b
