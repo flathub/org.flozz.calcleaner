@@ -1,43 +1,43 @@
 [
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/44/80/96d6317a15a13a4f80ffa61118dc144a70756135fbc6ace30f9b033f51f7/PyGObject-3.44.1.tar.gz",
-    "sha256": "665fbe980c91e8b31ad78ed3f66879946948200864002d193f67eccc1d7d5d83"
+    "url": "https://files.pythonhosted.org/packages/ac/4a/f24ddf1d20cc4b56affc7921e29928559a06c922eb60077448392792b914/PyGObject-3.46.0.tar.gz",
+    "sha256": "481437b05af0a66b7c366ea052710eb3aacbb979d22d30b797f7ec29347ab1e6"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/eb/cc/07a211d91eee3db5e8b8fcdea0fb018bffd40a3259884b9a891049961916/caldav-1.2.1-py3-none-any.whl",
-    "sha256": "6860abfab926e7a7290e94e2e179dd9ddb06ea6bc4eb60304b49ef4b14b85c6f"
+    "url": "https://files.pythonhosted.org/packages/f1/e0/0a3762eea7b1d4d855639f7eaee3a0006169fd79d86ae0c660ae5d1d4c60/caldav-1.3.9-py3-none-any.whl",
+    "sha256": "7c38f1def110809bd50acd3d648f6115b33b8f5395c457215b3b1147c70564d9"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/9d/19/59961b522e6757f0c9097e4493fa906031b95b3ebe9360b2c3083561a6b4/certifi-2023.5.7-py3-none-any.whl",
-    "sha256": "c6c2e98f5c7869efca1f8916fed228dd91539f9f1b444c314c06eef02980c716"
+    "url": "https://files.pythonhosted.org/packages/64/62/428ef076be88fa93716b576e4a01f919d25968913e817077a386fcbe4f42/certifi-2023.11.17-py3-none-any.whl",
+    "sha256": "e036ab49d5b79556f99cfc2d9320b34cfbe5be05c5871b51de9329f0603b0474"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/ff/d7/8d757f8bd45be079d76309248845a04f09619a7b17d6dfc8c9ff6433cac2/charset-normalizer-3.1.0.tar.gz",
-    "sha256": "34e0a2f9c370eb95597aae63bf85eb5e96826d81e3dcf88b8886012906f509b5"
+    "url": "https://files.pythonhosted.org/packages/63/09/c1bc53dab74b1816a00d8d030de5bf98f724c52c1635e07681d312f20be8/charset-normalizer-3.3.2.tar.gz",
+    "sha256": "f30c3cb33b24454a82faecaf01b19c18562b1e89558fb6c56de4d9118a032fd5"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/ed/37/2321498f4faa1fde48c874ef666f0288505e1558aa72b2a22063e0b3f00d/icalendar-5.0.5-py3-none-any.whl",
-    "sha256": "022c3fa7421fe274889007c12582510ab2e4ba0ac612b73dc35982c644356540"
+    "url": "https://files.pythonhosted.org/packages/56/df/da62437403ceafea8e5b6a03ca08d4c574eb4d13eec6b5dc7018200696e5/icalendar-5.0.11-py3-none-any.whl",
+    "sha256": "81864971ac43a1b7d0a555dc1b667836ce59fc719a7f845a96f2f03205fb83b9"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/fc/34/3030de6f1370931b9dbb4dad48f6ab1015ab1d32447850b9fc94e60097be/idna-3.4-py3-none-any.whl",
-    "sha256": "90b77e79eaa3eba6de819a0c442c0b4ceefc341a7a2ab77d7562bf49f425c5c2"
+    "url": "https://files.pythonhosted.org/packages/c2/e7/a82b05cf63a603df6e68d59ae6a68bf5064484a0718ea5033660af4b54a9/idna-3.6-py3-none-any.whl",
+    "sha256": "c05567e9c24a6b9faaa835c4821bad0590fbb9d5779e7caa6e1cc4978e7eb24f"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/06/5a/e11cad7b79f2cf3dd2ff8f81fa8ca667e7591d3d8451768589996b65dec1/lxml-4.9.2.tar.gz",
-    "sha256": "2455cfaeb7ac70338b3257f41e21f0724f4b5b0c0e7702da67ee6c3640835b67"
+    "url": "https://files.pythonhosted.org/packages/80/2c/076fafd979728858829fb9ce2e13fa6367b6be9acc4da0cff6367aa6a1ce/lxml-5.0.0.zip",
+    "sha256": "2219cbf790e701acf9a21a31ead75f983e73daf0eceb9da6990212e4d20ebefe"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/69/ca/9e9fa2e8be0876a9bbf046a1be7ee33e61d4fdfbd1fd25c76c1bdfddf8c4/pycairo-1.23.0.tar.gz",
-    "sha256": "9b61ac818723adc04367301317eb2e814a83522f07bbd1f409af0dada463c44c"
+    "url": "https://files.pythonhosted.org/packages/c7/7c/de4d40316ee563e4f15a0f05f28c8458833fbef80c4588b9dd51f39b78ee/pycairo-1.25.1.tar.gz",
+    "sha256": "7e2be4fbc3b4536f16db7a11982cbf713e75069a4d73d44fe5a49b68423f5c0c"
   },
   {
     "type": "file",
@@ -46,13 +46,13 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/7f/99/ad6bd37e748257dd70d6f85d916cafe79c0b0f5e2e95b11f7fbc82bf3110/pytz-2023.3-py2.py3-none-any.whl",
-    "sha256": "a151b3abb88eda1d4e34a9814df37de2a80e301e68ba0fd856fb9b46bfbbbffb"
+    "url": "https://files.pythonhosted.org/packages/32/4d/aaf7eff5deb402fd9a24a1449a8119f00d74ae9c2efa79f8ef9994261fc2/pytz-2023.3.post1-py2.py3-none-any.whl",
+    "sha256": "ce42d816b81b68506614c11e8937d3aa9e41007ceb50bfdcb0749b921bf646c7"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/4c/1f/91cdd4184f6c1ef23d2608b4af0eb2b495a20e8d49e58a00558817a2312b/recurring_ical_events-2.0.2-py3-none-any.whl",
-    "sha256": "a618140129e2ff00afa6b7afc1a154c2cb2177166621a519941b7058d6f6c339"
+    "url": "https://files.pythonhosted.org/packages/50/2e/840094f0635bab147fb429ab07352c9e9de142aeec82672ee3c6bdd7befa/recurring_ical_events-2.1.2-py3-none-any.whl",
+    "sha256": "b510d6d46e54381df1d6b35fcf2a727b71ecc510c85701b15c57312a5f172eff"
   },
   {
     "type": "file",
@@ -61,13 +61,13 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/84/d2/730a87f0dbf184760394a85088d0d2366a5a8a32bc32ffd869a83f1de854/tzlocal-5.0.1-py3-none-any.whl",
-    "sha256": "f3596e180296aaf2dbd97d124fe76ae3a0e3d32b258447de7b939b3fd4be992f"
+    "url": "https://files.pythonhosted.org/packages/97/3f/c4c51c55ff8487f2e6d0e618dba917e3c3ee2caae6cf0fbb59c9b1876f2e/tzlocal-5.2-py3-none-any.whl",
+    "sha256": "49816ef2fe65ea8ac19d19aa7a1ae0551c834303d5014c6d5a62e4cbda8047b8"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/4b/1d/f8383ef593114755429c307449e7717b87044b3bcd5f7860b89b1f759e34/urllib3-2.0.2-py3-none-any.whl",
-    "sha256": "d055c2f9d38dc53c808f6fdc8eab7360b6fdbbde02340ed25cfbcd817c62469e"
+    "url": "https://files.pythonhosted.org/packages/96/94/c31f58c7a7f470d5665935262ebd7455c7e4c7782eb525658d3dbf4b9403/urllib3-2.1.0-py3-none-any.whl",
+    "sha256": "55901e917a5896a349ff771be919f8bd99aff50b79fe58fec595eb37bbc56bb3"
   },
   {
     "type": "file",
@@ -76,7 +76,7 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/c6/38/05bcb43df0db48922426845380eeaea88875807050b9ac4aff099d775ae5/x_wr_timezone-0.0.5-py3-none-any.whl",
-    "sha256": "e438b27b96635f5f712a4fb5dda4c82597a53a412fe834c9fe8409fddb3fc2b1"
+    "url": "https://files.pythonhosted.org/packages/f0/e0/bb85ef1170f3d7fc6b5d14452426e14e0f6ec2e0650bb882895cbc8c43db/x_wr_timezone-0.0.6-py3-none-any.whl",
+    "sha256": "26d98b5f5ae190b68df8b9b9856c4867389956f5b295e0e14f632d7341b60f67"
   }
 ]
