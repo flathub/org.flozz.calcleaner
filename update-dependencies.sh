@@ -19,7 +19,7 @@ pip freeze --all | grep -v pkg-resources > pydep.build/requirements.txt
 pip install requirements-parser
 wget \
     -O pydep.build/flatpak-pip-generator.py \
-    https://raw.githubusercontent.com/flatpak/flatpak-builder-tools/master/pip/flatpak-pip-generator
+    https://raw.githubusercontent.com/flatpak/flatpak-builder-tools/master/pip/flatpak-pip-generator.py
 
 # Generate the dependency file
 python pydep.build/flatpak-pip-generator.py \
