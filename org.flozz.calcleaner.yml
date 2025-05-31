@@ -15,10 +15,10 @@ modules:
       # Build locales
       - ./build-locales.py
       # Build and install CalCleaner
-      - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "."
+      - pip3 install --verbose --exists-action=i --no-build-isolation --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "."
       # Force installing lxml (pip refuses to install it as a dependency of caldav
       # as it is already available in the sdk...)
-      - pip3 install --ignore-installed --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "lxml"
+      - pip3 install --ignore-installed --no-build-isolation --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "lxml"
       # Copy app data
       - ./linuxpkg/copy-data.sh ${FLATPAK_DEST}
     sources:
