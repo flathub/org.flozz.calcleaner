@@ -1,4 +1,4 @@
-app-id: org.flozz.calcleaner
+id: org.flozz.calcleaner
 runtime: org.gnome.Platform
 runtime-version: "46"
 sdk: org.gnome.Sdk
