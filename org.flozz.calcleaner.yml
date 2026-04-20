@@ -1,6 +1,6 @@
 id: org.flozz.calcleaner
 runtime: org.gnome.Platform
-runtime-version: "48"
+runtime-version: "50"
 sdk: org.gnome.Sdk
 command: calcleaner
 finish-args:
@@ -8,7 +8,13 @@ finish-args:
   - --share=ipc
   - --socket=fallback-x11
   - --socket=wayland
+cleanup:
+  - /share/man
+cleanup-commands:
+  - python3 -m compileall --invalidation-mode=unchecked-hash /app
 modules:
+  - python3-meson-python.json
+  - python3-six.json
   - name: calcleaner
     buildsystem: simple
     build-commands:
@@ -26,6 +32,6 @@ modules:
       - type: file
         path: ./build-locales.py
       - type: git
-        url: "https://github.com/flozz/calcleaner.git"
+        url: https://github.com/flozz/calcleaner.git
         tag: v1.1.3
         commit: a7670f214ca4976f54455b83f56bd12c1b8c125b
